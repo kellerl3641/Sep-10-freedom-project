@@ -23,4 +23,5 @@ Content :
 Jquery :
 should be able to slowly pop up when the page is being scrolled<br>
 When the link is clicked, it should be able to smoothly scroll to the designated area.
-
+When the picture for inventions are up, if the person hasn't scroll to a certain point, it should not pop up.
+It should work for almost every contact and the pricing section
