@@ -3,7 +3,7 @@
 - Should have 5 sections in total
 - Main / About
 - Tools/Apps
--Greatest 
+-Greatest Inventions
 # CSS:
 Font for body :  Lato, sans-serif; <br>
 Font for the The Big Screen  : Montserrat, sans-serif;
