@@ -18,5 +18,6 @@ Image : should be in the middle.
 
 Jquery :
 should be able to slowly pop up when the page is being scrolled
+When the link is clicked 
 
 
