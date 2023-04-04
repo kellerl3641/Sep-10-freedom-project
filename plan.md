@@ -17,6 +17,6 @@ the header background: pink
 Image : should be in the middle.
 
 Jquery :
-should be able to slowly pop up 
+should be able to slowly pop up when the page is being scrolled
 
 
