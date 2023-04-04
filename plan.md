@@ -18,7 +18,7 @@ Content :
 - Image should be approxi 300-350px width
 - Image should be 300 - 400 as height
 - Image : should be in the middle.
-
+- font size should be at like 15px
 
 Jquery :
 should be able to slowly pop up when the page is being scrolled<br>

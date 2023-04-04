@@ -23,7 +23,7 @@ $(document).ready(function(){
       });
 
     $(window).scroll(function() {
-        $(".slideanim").each(function(){
+        $(".slideanimate").each(function(){
           var pos = $(this).offset().top;
 
           var winTop = $(window).scrollTop();
