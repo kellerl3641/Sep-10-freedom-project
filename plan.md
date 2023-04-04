@@ -4,6 +4,8 @@
 - Main / About
 - Tools/Apps
 -Greatest Inventions
+- Pricing
+- Contact
 # CSS:
 Font for body :  Lato, sans-serif; <br>
 Font for the The Big Screen  : Montserrat, sans-serif;
@@ -13,5 +15,8 @@ Color : blue for the money
 background for the container : white
 the header background: pink
 Image : should be in the middle.
+
+Jquery :
+should be able to slowly pop up 
 
 
