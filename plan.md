@@ -2,7 +2,8 @@
 - Making the Nav Bar (should be staying in the  same place. (non moving)
 - Should have 5 sections in total
 - Main / About
-- Tools/
+- Tools/Apps
+-Greatest 
 # CSS:
 Font for body :  Lato, sans-serif; <br>
 Font for the The Big Screen  : Montserrat, sans-serif;
