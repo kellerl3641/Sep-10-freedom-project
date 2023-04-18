@@ -32,3 +32,9 @@ $(document).ready(function(){
     });
   });
 })
+
+jQuery(function () {
+  jQuery(".emailLink").click(function () {
+      alert("I hate people who don't listen.");
+  });
+});
