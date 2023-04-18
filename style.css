@@ -13,11 +13,13 @@ body {
   h2 {
     font-size: 24px;
     text-transform: uppercase;
-    color: #303030;
+    color: #473b3b;
     font-weight: 600;
     margin-bottom: 30px;
   }
-  #
+  #Us{
+    color: #023020;
+  }
   h4 {
     font-size: 19px;
     line-height: 1.375em;
