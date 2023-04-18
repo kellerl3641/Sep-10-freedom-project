@@ -14,6 +14,9 @@ body {
     text-decoration: underline;
     color: #B68864;
   }
+  #pt2{
+    color: #191970;
+  }
   h2 {
     font-size: 24px;
     text-transform: uppercase;
