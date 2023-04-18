@@ -5,6 +5,7 @@ body {
     line-height: 1.8;
     color: blue;
     background-color: #ADD8E6;
+    letter-spacing: 1.2px;
   }
   #image{
     align-items: center;
@@ -16,6 +17,7 @@ body {
     font-weight: 600;
     margin-bottom: 30px;
   }
+  #
   h4 {
     font-size: 19px;
     line-height: 1.375em;
@@ -55,7 +57,7 @@ body {
   }
   .panel {
     border: 1px solid #CBC3E3;
-    border-radius:0 !important;
+    border-radius:0 ;
     transition: box-shadow 0.5s;
   }
   .panel:hover {
@@ -145,6 +147,20 @@ body {
       opacity: 1;
       -webkit-transform: translateY(0%);
     }
+  }
+  #Apps{
+    color:  #301934;
+    font-size: bold;
+    border-style: inset;
+    border-width: 10px;
+    width: 450px;
+    border-color: #FF6F61;
+  }
+  #types{
+    background-color:  #FFD1C2;
+    border-style: outset;
+    border-color: #B565A7;
+    padding: 5px;
   }
   @media screen and (max-width: 768px) {
     .col-sm-4 {
