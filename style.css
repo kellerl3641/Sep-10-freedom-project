@@ -7,9 +7,7 @@ body {
     background-color: #ADD8E6;
     letter-spacing: 1.2px;
   }
-  #image{
-    align-items: center;
-  }
+
   #Inventions{
     text-decoration: underline;
     color: #B68864;
@@ -163,7 +161,7 @@ body {
     font-size: bold;
     border-style: inset;
     border-width: 10px;
-    width: 450px;
+    width: 200px;
     border-color: #FF6F61;
   }
   #types{
