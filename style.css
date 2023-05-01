@@ -133,8 +133,8 @@ body {
   .slide {
     animation-name: slide;
     -webkit-animation-name: slide;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
     visibility: visible;
   }
   @keyframes slide {
