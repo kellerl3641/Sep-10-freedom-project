@@ -21,20 +21,21 @@ $(document).ready(function(){
     } // End if
   });
 
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
-
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
 
 jQuery(function () {
   jQuery(".emailLink").click(function () {
       alert("I hate people who don't listen.");
   });
 });
+
+$(window).scroll(function() {
+  $(".slideanim").each(function(){
+    var pos = $(this).offset().top;
+
+    var winTop = $(window).scrollTop();
+      if (pos < winTop + 600) {
+        $(this).addClass("slide");
+      }
+  });
+});
+})
