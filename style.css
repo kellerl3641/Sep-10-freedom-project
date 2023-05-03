@@ -1,12 +1,13 @@
 
 
 body {
-    font: 400 15px Lato, 'Foldit', cursive;;
+    font: 400 15px;
     line-height: 1.8;
     color: blue;
     background-color: #ADD8E6;
     letter-spacing: 1.2px;
     margin: 2px;
+    
   }
 
   #Inventions{
