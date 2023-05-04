@@ -39,3 +39,8 @@ $(window).scroll(function() {
   });
 });
 })
+
+
+$(function() {
+  $( "#draggable" ).draggable();
+}); 
