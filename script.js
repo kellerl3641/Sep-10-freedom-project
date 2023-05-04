@@ -45,6 +45,11 @@ $(function() {
   $( function() {
     $( "#d3" ).draggable();
     $( "#container" ).droppable(
+        {
+            container :function()
+        {
+            alert("I am dropped");
+        }
         } );
         } );
 });
