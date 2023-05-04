@@ -42,5 +42,9 @@ $(window).scroll(function() {
 
 
 $(function() {
-  $( "#draggable" ).draggable();
-}); 
+  $( function() {
+    $( "#d3" ).draggable();
+    $( "#container" ).droppable(
+        } );
+        } );
+});
