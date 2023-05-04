@@ -45,5 +45,6 @@ $(function() {
   $( function() {
     $( "#d3" ).draggable();
     $( "#d4" ).draggable();
-    
+    $('#d5').draggable();
+  })
 });
